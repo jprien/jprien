@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jprien 
-- 👀 I’m interested in sports, shoes, coding, tech and cars
-- 🌱 I’m currently building my own website
+- 👋 Hi, I’m @jprien, a CS student applying his skills to build innovative websites 
+- 🌱 I’m currently building my own website 
 - 📫 How to reach me --> jprien2c@gmail.com
 
 <!---
